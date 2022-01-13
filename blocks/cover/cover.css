@@ -42,6 +42,11 @@
         margin-top: 90px;
     }
 }
+@media screen and (max-width: 560px) {
+    .cover {
+        grid-gap: 16px;
+    }
+}
 
 @media screen and (max-width: 425px) {
     .cover {
