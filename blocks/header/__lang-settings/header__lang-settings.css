@@ -1,6 +1,4 @@
 .header__lang-settings {
-    width: 30px;
-    height: 28px;
     margin: 18px 18px 6px 0;
 }
 
@@ -10,8 +8,6 @@
 
 @media screen and (max-width: 320px) {
     .header__lang-settings {
-        width: 22px;
-        height: 20px;
         margin: 14px 18px 8px 0;
     }
 }

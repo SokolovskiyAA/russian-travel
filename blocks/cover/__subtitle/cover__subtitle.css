@@ -7,9 +7,7 @@
     margin: 0;
     max-width: 360px;
     z-index: 1;
-    grid-column: 1/2;
-    grid-row: 2/3;
-    align-self: start;
+    text-align: center;
 }
 
 @media screen and (max-width: 560px) {
