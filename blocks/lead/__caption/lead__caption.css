@@ -9,13 +9,13 @@
     margin-bottom: 0;
 }
 
-@media screen and (min-width: 425px) and (max-width: 1024px) {
+@media screen and (min-width: 425px) and (max-width: 768px) {
     .lead__caption {
        margin-left: 24px;
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 424px) {
     .lead__caption {
         margin-left: 18px;
     }
